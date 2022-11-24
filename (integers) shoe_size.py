@@ -1,4 +1,4 @@
-# ShoeSize (Rounded Numbers)
+# shoe_size.py (Rounded Numbers)
 #
 # @ author: J. T. Cotterill
 # date: October 2022
