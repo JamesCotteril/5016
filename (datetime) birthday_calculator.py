@@ -1,4 +1,4 @@
-# Make a Birthday Calculator
+# birthday_calculator
 #
 # Author: J. T. Cotterill
 # October 2022
