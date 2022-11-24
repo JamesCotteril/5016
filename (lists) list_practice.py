@@ -7,7 +7,7 @@ list_1 = [23, 66, 23, 12]
 list_2 = [1, 19, 4, 8]
 list_3 = ["land of ", "the ", "the long white cloud"]
 
-Challenge 1 - Complete
+#Challenge 1 - Complete
 import statistics
 choice = 0
 print("The 2 lists are", list_1, "and", list_2,"\n")
