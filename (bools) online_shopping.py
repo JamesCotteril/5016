@@ -1,4 +1,4 @@
-# Online Shopping with Booleans
+# online_shopping.py
 #
 # @ author: J. T. Cotterill
 # date: October 2022
