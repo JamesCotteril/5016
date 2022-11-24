@@ -1,4 +1,4 @@
-# Baby.py
+# babyname.py
 #
 # author: A. N. Other
 # date: September 2016
