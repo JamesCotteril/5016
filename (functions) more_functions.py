@@ -1,4 +1,4 @@
-#More functions.py
+#more_functions.py
 #
 # J T Cotterill
 # November 2022
@@ -30,16 +30,16 @@
 
 #Challenge 5 - complete
 
-#list_1 = ["apple", "four", "porcupine", "walrus"]
-#list_1_lengths = []
+list_1 = ["apple", "four", "porcupine", "walrus"]
+list_1_lengths = []
 
-#def get_lengths(list_1):
-#    for i in range(0, len(list_1)):
-#        number = len(list_1[i])
-#        list_1_lengths.append(number)
+def get_lengths(list_1):
+    for i in range(0, len(list_1)):
+        number = len(list_1[i])
+        list_1_lengths.append(number)
 
-#get_lengths(list_1)
-#print(list_1_lengths)
+get_lengths(list_1)
+print(list_1_lengths)
     
     
     
