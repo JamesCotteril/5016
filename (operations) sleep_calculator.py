@@ -1,6 +1,6 @@
-# SleepCalculator.py
+# sleep_calculator.py
 #
-# author: J. T. Cotterill
+# author: A. N. Other
 # date: October 2022
 
 print ("Welcome. I'm your Sleep Calculator.\n")
