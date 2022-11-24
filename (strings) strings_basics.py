@@ -1,4 +1,4 @@
-#Searching Strings.py
+# strings_basics.py
 #
 #  J T Cotterill
 # November 2022
