@@ -1,4 +1,4 @@
-# More while loop practice
+# shape_area_calculator.py
 #
 # J T Cotterill
 # October 2022
