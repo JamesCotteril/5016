@@ -1,4 +1,4 @@
-# If Practice; NZ Quiz
+# nzquiz.py
 #
 # @ author: J. T. Cotterill
 # date: October 2022
