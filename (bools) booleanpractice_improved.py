@@ -1,4 +1,4 @@
-# Auckland Grammar School
+# booleanpractice_improved
 #
 # @ author: J. T. Cotterill
 # date: November 2022
