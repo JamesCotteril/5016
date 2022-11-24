@@ -1,4 +1,4 @@
-# While loop practice 2
+# while_loops2.py
 #
 # J T Cotterill
 # October 2022
