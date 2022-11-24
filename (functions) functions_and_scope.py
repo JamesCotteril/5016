@@ -1,4 +1,4 @@
-# Function4.py
+# functions_and_scope.py
 #
 # @ author: A. N. Other
 # date: September 2016
