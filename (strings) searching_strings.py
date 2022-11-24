@@ -1,4 +1,4 @@
-#Searching Strings.py
+# searching_strings.py
 #
 #  J T Cotterill
 # November 2022
@@ -25,20 +25,20 @@
 
 #Challenge 9 - Complete
 
-#import re
-#password_confirmed = False
-#while password_confirmed == False:
+import re
+password_confirmed = False
+while password_confirmed == False:
     
-#    password_input = input("Please enter password with at least one number and one capital letter:\n")
-#    numbers = re.findall('[0-9]+', password_input)
-#    capitals = re.findall('[A-Z]', password_input)
-#    if capitals != [] and numbers != []:
-#        password_confirmed = True
-#        print("Password confirmed.")
-#        break
-#    else:
-#        print("Error. Please include a number and a capital letter.")
-#       continue
+    password_input = input("Please enter password with at least one number and one capital letter:\n")
+    numbers = re.findall('[0-9]+', password_input)
+    capitals = re.findall('[A-Z]', password_input)
+    if capitals != [] and numbers != []:
+        password_confirmed = True
+        print("Password confirmed.")
+        break
+    else:
+        print("Error. Please include a number and a capital letter.")
+       continue
 
 #Challenge 7 - Complete
 
