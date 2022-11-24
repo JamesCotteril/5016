@@ -1,4 +1,4 @@
-# Functions1.py
+# functions_practice.py
 #
 # @ author: J T Cotterill
 # date: November 2022
@@ -21,6 +21,8 @@
 #    print(x * y)
 
 #show_message(5, "Code!\n")
+
+#Task 3 - Complete
 
 import random
 
