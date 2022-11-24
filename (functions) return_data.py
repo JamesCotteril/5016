@@ -1,6 +1,6 @@
-# Return data from functions
+# return_data
 #
-# @ author: J T Cotterill
+# @ author: A N Other
 # date: November 2022
  
 score = 4
