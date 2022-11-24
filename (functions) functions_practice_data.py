@@ -1,4 +1,4 @@
-# Return data from functions part 2
+# functions_practice_data.py
 #
 # J T Cotterill
 # November 2022
@@ -45,15 +45,15 @@
 
 #Challenge 12 - Complete
 
-#print("Welcome to the online store, please enter the quantity of each item you wish to purchase:\n")
-#greenstone_koru = 265 * int(input("Greenstone Koru carving, quantity needed?\n"))
-#rimu_tiki = 42 * int(input("Greenstone Koru carving, quantity needed?\n"))
-#manaia_bone = 311 * int(input("Greenstone Koru carving, quantity needed?\n"))
+print("Welcome to the online store, please enter the quantity of each item you wish to purchase:\n")
+greenstone_koru = 265 * int(input("Greenstone Koru carving, quantity needed?\n"))
+rimu_tiki = 42 * int(input("Greenstone Koru carving, quantity needed?\n"))
+manaia_bone = 311 * int(input("Greenstone Koru carving, quantity needed?\n"))
 
-#def get_price(koru, tiki, bone):
-#    total = koru + tiki + bone
-#    gst = 0.15 * total
-#    grand_total = total + gst
-#    print("Thank you!\nSubtotal is: {0}\nGST @ 15% is: {1}\nGrand Total is: {2}".format(total, gst, grand_total))
+def get_price(koru, tiki, bone):
+    total = koru + tiki + bone
+    gst = 0.15 * total
+    grand_total = total + gst
+    print("Thank you!\nSubtotal is: {0}\nGST @ 15% is: {1}\nGrand Total is: {2}".format(total, gst, grand_total))
 
-#get_price(greenstone_koru, rimu_tiki, manaia_bone)
+get_price(greenstone_koru, rimu_tiki, manaia_bone)
