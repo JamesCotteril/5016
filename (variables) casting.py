@@ -1,4 +1,4 @@
-# Casting.py
+# casting.py
 #
 # @ author: A. N. Other
 # date: September 2016
