@@ -1,4 +1,4 @@
-# DateTest.py
+# age_calculator.py
 #
 # author: A. N. Other
 # date: September 2016
