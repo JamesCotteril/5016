@@ -1,13 +1,13 @@
-# loopspractice.py
+# loops_practice.py
 #
 # @ author: J T Cotterill
 # date: November 2022
  
 
 # Question 1 - Complete
-#for i in range(1500, 2700):
-#        if (i % 7 == 0) and (i % 5 == 0):
-#            print(i)
+for i in range(1500, 2700):
+        if (i % 7 == 0) and (i % 5 == 0):
+            print(i)
 
 #Question 3 - Complete
 #import random
