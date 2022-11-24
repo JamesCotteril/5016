@@ -1,4 +1,8 @@
-#Introduce yourself to your computer
+# introductions.py
+# Introduce yourself to your computer
+#
+# author: J. T. Cotterill
+# October 2022
 
 #Enter name and display
 name = input(str("What's your name?\n"))
