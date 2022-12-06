@@ -8,7 +8,7 @@ from datetime import timedelta
 
 #Examples of some simple date calculations for future referral
 print("125 days ago it was", datetime.today() - timedelta(days=125), ".\n")
-print("In 2 weeks it will be", datetime.today() + timedelta(weeks=1), ".\n")
+print("In 2 weeks it will be", datetime.today() + timedelta(weeks=2), ".\n")
 
 #Input 2 birthdays
 birthday_input1 = input("Please enter the first birthday in the format DD Mmm YYYY: \n")
