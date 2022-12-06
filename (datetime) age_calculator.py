@@ -27,3 +27,5 @@ print("In 10 days time my age will be", datetime.today() + timedelta(days=10), "
  
 # add my current age to today's date
 print("I will be double my age in", datetime.today()+ my_age, ".")
+
+#Learning to use datetime was aprticular challenge for me. This code has great examples of how to calculate using date objects.
