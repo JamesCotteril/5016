@@ -12,3 +12,5 @@ if (male):
    print ("We will use name Rangi")
 else:
    print ("We will use name Anihera")
+
+  #To define a bool variable, it must be declared first, and numbers 0 and 1 can be used to denote a change from positive to negative
