@@ -46,4 +46,5 @@ if (is_registered or guest_login_used) and (shopping_cart_full or gift_card_purc
 else:
     print('Payment failed.')
 
-
+#This code was also one of my creations with boolean logic. It has the same pitfall as the other practice task. It uses longform code to do
+#something which could be achieved with shorter code.
