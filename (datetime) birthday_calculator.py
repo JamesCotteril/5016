@@ -18,6 +18,7 @@ birthday_input2 = input("Please enter the second birthday in the format DD Mmm Y
 birthday_object1 = datetime.strptime(birthday_input1, '%d %b %Y')
 birthday_object2 = datetime.strptime(birthday_input2, '%d %b %Y')
 
+#Not sure if there's an easier method to minus the smallest or lowest object from the largest or highest, but I found this method using max and min
 #Find oldest and youngest
 oldest = min(birthday_object1, birthday_object2)
 youngest = max(birthday_object1, birthday_object2)
