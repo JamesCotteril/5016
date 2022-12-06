@@ -27,3 +27,5 @@ else:
 park_time = 4
 total cost of parking = $14
 '''
+
+#Kept this because this calculation didn't occur to me. It changes the rate and time after running a calculation for cost. Then calculates cost with the new rate.
