@@ -1,5 +1,6 @@
 # booleanpractice.py
 #
+# My first attempt at producing a program using bools
 # @ author: J. T. Cotterill
 # date: October 2022
 
@@ -50,3 +51,5 @@ elif valid_international_student and valid_age == True:
 
 else:
     print('The student is ineligible to enroll.')
+    
+    #In hindsight this code is overly complex. It can be reduced to fewer lines, which can be seen in the improved code
