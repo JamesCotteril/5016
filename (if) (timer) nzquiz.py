@@ -4,6 +4,7 @@
 # date: October 2022
 
 import time
+#mark a start time with perf_counter
 time_start = time.perf_counter()
 correct = 0
 
@@ -72,8 +73,11 @@ elif correct <=4 and correct >=3:
     print('Nicely done!')
 else:
     print("Perfect score! You're so clever!")
-
+    
+#mark an end time with perf_counter and calculate time taken
 time_end = time.perf_counter()
 time_taken = round(time_end - time_start)
 
 print("You took", time_taken, "seconds.")
+
+#This code also contains a great simple way to implement a timer for future applications. Otherwise it's good if practice. This came in handy for the assignment
