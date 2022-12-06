@@ -23,3 +23,4 @@ print("Test case assertion: the inital score is 4 "
  
 show_new_score(score)
 #'''
+#Understanding function scope took some time, but this code was very useful in referring for future tasks and the assignment.
