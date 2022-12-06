@@ -3,7 +3,9 @@
 # @ author: J T Cotterill
 # date: November 2022
 
-#Challenge 1 - Complete
+#I chose 3 tasks and completed them here.
+
+#Challenge 1 - Complete - Get user input and run through a pre-defined method to display the input
 
 #def display_details(param_name, param_number):
 #    print("Hello there, my name is {0} and my phone number is {1}.\n".format(param_name, param_number))
@@ -15,7 +17,7 @@
 #    print("\nThank you\n")
 #    display_details(name_input, number_input)
 
-#Challenge 4 - Complete
+#Challenge 4 - Complete - Make a function to print the sum of a list
 
 #stored_list = [21, 32, 43, 22, 1, 5, 18]
 
@@ -24,13 +26,15 @@
 
 #total_list()
 
-#Challenge 6 - Complete
+#Challenge 6 - Complete - Print even numbers in a list and odd numbers in a list
 
 stored_list = [21, 32, 43, 22, 1, 5, 18]
 
 def only_even_numbers(param_list):
+#By using sorted on the list first, the numbers displayed are printed in ascending order
     sorted_param_list = sorted(param_list)
     for i in sorted_param_list:
+#The % operator finds the remainder when a number is divided. If a remainder is 0 when divided by 2 then it is an even number
         if i % 2 == 0:
             print(i)
             
