@@ -20,3 +20,5 @@ while True:
 
     else:
         print('The student is ineligible to enroll.')
+        
+#This code is better than before, using a shorter code to achieve the same result. Follows the KISS (Keep it simple stupid) method.
