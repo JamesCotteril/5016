@@ -24,4 +24,7 @@ print(harry.__str__())
 
 print(sarrah.__str__())
 
-
+#While I understand the general idea of classes and class methods. I'm still unsure of why it's important to seperate things into different classes
+#I imagine this will become clearer as I work more with OOP languages like python but during the assignment we did, it didn't seem relevant as there
+#were only 2 classes, and the main class was only made for the purpose of executing the program. With a more complex program with more than one
+#class that contain more functions and different objects made with those classes, I would be able to see OOP in more depth.
