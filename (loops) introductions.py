@@ -4,6 +4,8 @@
 # author: J. T. Cotterill
 # October 2022
 
+#This was my first original code. I wanted to work with while loops and if statements to practice everything I had done leading up to it.
+
 #Enter name and display
 name = input(str("What's your name?\n"))
 print('Your name is', name.capitalize() + ".")
