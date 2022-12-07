@@ -2,6 +2,7 @@
 #
 # J T Cotterill
 # October 2022
+# Guess a secret number given clues to increase or decrease the guess
 
 secret_number = 56
 number_of_tries = 0
@@ -11,9 +12,10 @@ print("I'm thinking of a number between 1 and 100... Have a guess!\n")
 
 while True:
     attempt = int(input("Go on. Guess!\n"))
-    
+#If user inputs the same guess twice, don't count it    
     if attempt == previous_attempt:
         print("You just guessed that one! Try something else!")
+        #Set the previous attempt variable to check the next guess against it
         previous_attempt = attempt
     
     if attempt > secret_number and attempt != previous_attempt:
