@@ -15,3 +15,5 @@ my_score = str(my_score)
  
 print("The type of my_score is now ", type(my_score),"\n")
 print("my_score is ", my_score,"\n")
+
+#This manipulating of variable type will be important in the assignment.
