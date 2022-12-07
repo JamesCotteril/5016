@@ -2,7 +2,7 @@
 #
 # @ author: A. N. Other
 # date: September 2016
- 
+# Using * to draw shapes 
 user_input = int(input("Please enter a number for the size"
                        "of the shape you wish to create."))
  
