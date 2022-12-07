@@ -2,6 +2,7 @@
 #
 # J T Cotterill
 # October 2022
+# Calculate the area of a shape.
 
 #Welcome and instructions
 option_selected = 'nil'
