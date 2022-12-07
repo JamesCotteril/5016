@@ -3,6 +3,8 @@
 # author: A. N. Other
 # date: October 2022
 
+#Calculate the number of hours slept given a user input YOB.
+
 print ("Welcome. I'm your Sleep Calculator.\n")
 user_name = input("Please enter your name...\n")
 user_yob = int(input("Please enter your year of birth...\n"))
