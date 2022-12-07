@@ -3,11 +3,13 @@
 # author J T Cotterill
 # date: November 2022
 
+#Completed 3 tasks and commented out a couple. The code has been tested.
+
 list_1 = [23, 66, 23, 12]
 list_2 = [1, 19, 4, 8]
 list_3 = ["land of ", "the ", "the long white cloud"]
 
-#Challenge 1 - Complete
+#Challenge 1 - Complete - Sum and average of lists of numbers
 import statistics
 choice = 0
 print("The 2 lists are", list_1, "and", list_2,"\n")
@@ -29,19 +31,19 @@ while choice == 0:
         choice = 0
         continue
 
-#Challenge 9 - Complete
+#Challenge 9 - Complete - Sort and print a list by length
 
 #sorted_list_3 = sorted(list_3, key = len)
 #final_display = "".join(sorted_list_3)
 #print(final_display)
 
-#Challenge 5 - Complete
+#Challenge 5 - Complete - Find odd numbers in a list and print them
 
 #for i in list_1:
 #    if i % 2 != 0:
 #        print(i)
 
-#Challenge 8 - Complete
+#Challenge 8 - Complete - Choose random items from both lists. If they are the same, chose again
 
 #import random
 
