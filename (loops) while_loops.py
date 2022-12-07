@@ -3,6 +3,8 @@
 # J T Cotterill
 # October 2022
 
+#Count up to a number
+
 #Set start and end values
 number = int(input("Please input a number...\n"))
 target = 1
