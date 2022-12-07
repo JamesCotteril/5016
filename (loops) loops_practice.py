@@ -2,14 +2,15 @@
 #
 # @ author: J T Cotterill
 # date: November 2022
- 
 
-# Question 1 - Complete
+#I completed a few tasks from the options and ocmmented some out. The code has been tested.
+
+# Question 1 - Complete - Find numbers between 1500 and 2700 that are divisible by 7 and multiples of 5
 for i in range(1500, 2700):
         if (i % 7 == 0) and (i % 5 == 0):
             print(i)
 
-#Question 3 - Complete
+#Question 3 - Complete - Guess a random number
 #import random
 #number = random.randint(1, 9)
 
@@ -28,7 +29,7 @@ for i in range(1500, 2700):
 #    print(i)
 
 
-#Question 10 - Complete
+#Question 10 - Complete - Find numbers divisble by 3, 5, 3 and 5, and print corresponding phrases
 #for i in range(1, 51):
 #    if (i % 3 == 0) and (i % 5 == 0):
 #        print("FizzBuzz")
@@ -45,7 +46,7 @@ for i in range(1500, 2700):
 #    else:
 #        print(i)
 
-#Question 31 - Complete
+#Question 31 - Complete - Convert human years to dog years
 #age_in_human_years = int(input("Please enter the dog's age in human years...\n"))
 #age_in_dog_years = 0
 
@@ -60,7 +61,7 @@ for i in range(1500, 2700):
 
 #print("The dog's age in dog years is", age_in_dog_years)
 
-#Question 36 - Complete
+#Question 36 - Complete - Find the type of traingle given the sides.
 
 #while True:
                     
@@ -90,7 +91,7 @@ for i in range(1500, 2700):
 #        continue
 
 
-#Question 42 - Complete
+#Question 42 - Complete - Calculate sum and average of numbers
 
 #print("Input some integers to calculate their sum and average. Input 0 to exit.")
 
@@ -106,14 +107,14 @@ for i in range(1500, 2700):
 #    average = sum / count
 #    print("Average and sum of the numbers entered are", average, "and", sum)
 
-#Question 43 - Complete
+#Question 43 - Complete - Multiply a number by numbers 1 to 11
 
 #number =  int(input("Input a number: "))
 
 #for i in range (1, 11):
 #    print(number, "x", i, "=", (number * i),"\n")
 
-#Question 21 - Complete ( Question 27 also complete )
+#Question 21 - Complete ( Question 27 also complete ) - Change the display to another letter ( T )
 
 #result_str="";    
 #for row in range(0,7):    
@@ -127,7 +128,7 @@ for i in range(1500, 2700):
 #    result_str=result_str+"\n"    
 #print(result_str);
 
-#Question 22 - Complete
+#Question 22 - Complete - Display an M
 #result_str="";    
 #for row in range(0,7):    
 #    for column in range(0,7):     
